@@ -24,6 +24,8 @@ entries:
   - title: "Beyond the Boundary"
     seasons:
       - season: 1
+        anilist-id: 18153
+      - season: 1
         anilist-id: 20779
         start: 13
       - season: 1
@@ -32,3 +34,22 @@ entries:
       - season: 1
         anilist-id: 20963
         start: 15
+  - title: "Blue Exorcist"
+    seasons:
+      - season: 1
+        anilist-id: 9919
+      - season: 1
+        anilist-id: 11266
+        start: 26
+      - season: 2
+        anilist-id: 21861
+      - season: 3
+        anilist-id: 158931
+  - title: "The Dangers in My Heart"
+    seasons:
+      - season: 0
+        anilist-id: 170221
+      - season: 1
+        anilist-id: 153152
+      - season: 2
+        anilist-id: 166216
