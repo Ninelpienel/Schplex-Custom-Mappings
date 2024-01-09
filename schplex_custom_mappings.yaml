@@ -45,6 +45,14 @@ entries:
         anilist-id: 21861
       - season: 3
         anilist-id: 158931
+  - title: "Bottom-Tier Character Tomozaki"
+    seasons:
+      - season: 0
+        anilist-id: 127363
+      - season: 1
+        anilist-id: 112443
+      - season: 2
+        anilist-id: 143866
   - title: "Gintama"
     seasons:
       - season: 1
