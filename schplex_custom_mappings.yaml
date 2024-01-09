@@ -45,6 +45,37 @@ entries:
         anilist-id: 21861
       - season: 3
         anilist-id: 158931
+  - title: "Gintama"
+    seasons:
+      - season: 1
+        anilist-id: 918
+      - season: 2
+        anilist-id: 918
+      - season: 3
+        anilist-id: 918
+      - season: 4
+        anilist-id: 918
+      - season: 5
+        anilist-id: 9969
+      - season: 6
+        anilist-id: 15417
+      - season: 7
+        anilist-id: 20996
+      - season: 8
+        anilist-id: 97889
+      - season: 9
+        anilist-id: 99714
+      - season: 10
+        anilist-id: 100784
+      - season: 10
+        anilist-id: 101925
+        start: 13
+      - season: 10
+        anilist-id: 126819
+        start: 27
+      - season: 10
+        anilist-id: 114129
+        start: 29
   - title: "The Dangers in My Heart"
     seasons:
       - season: 0
