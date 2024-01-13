@@ -88,49 +88,70 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21
+        start: 1
       - season: 2
         anilist-id: 21
+        start: 62
       - season: 3
         anilist-id: 21
+        start: 78
       - season: 4
         anilist-id: 21
+        start: 92
       - season: 5
         anilist-id: 21
+        start: 131
       - season: 6
         anilist-id: 21
+        start: 144
       - season: 7
         anilist-id: 21
+        start: 196
       - season: 8
         anilist-id: 21
+        start: 229
       - season: 9
         anilist-id: 21
+        start: 264
       - season: 10
         anilist-id: 21
+        start: 337
       - season: 11
         anilist-id: 21
+        start: 382
       - season: 12
         anilist-id: 21
+        start: 408
       - season: 13
         anilist-id: 21
+        start: 422
       - season: 14
         anilist-id: 21
+        start: 523
       - season: 15
         anilist-id: 21
+        start: 581
       - season: 16
         anilist-id: 21
+        start: 643
       - season: 17
         anilist-id: 21
         start: 693
       - season: 18
         anilist-id: 21
+        start: 749
       - season: 19
         anilist-id: 21
+        start: 804
       - season: 20
         anilist-id: 21
+        start: 878
       - season: 21
         anilist-id: 21
+        start: 892
       - season: 22
         anilist-id: 21
+        start: 1089
   - title: "The Dangers in My Heart"
     seasons:
       - season: 0
