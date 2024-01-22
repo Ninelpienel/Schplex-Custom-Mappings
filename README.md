@@ -2,18 +2,26 @@
 
 To enable the sync function for specials, change the lines of the following files:
 
-[custom_mappings_schema.json, line 46](https://github.com/RickDB/PlexAniSync/blob/master/custom_mappings_schema.json#L46):
+#### [custom_mappings_schema.json, line 46](https://github.com/RickDB/PlexAniSync/blob/master/custom_mappings_schema.json#L46):
 
-`                  "minimum": 1`
-
-to
-
-`                  "minimum": 0`
-
-[plexanisync/plexmodule.py, line 181](https://github.com/RickDB/PlexAniSync/blob/master/plexanisync/plexmodule.py#L181):
-
-`                        lambda season: season.seasonNumber > 0 and season.viewedLeafCount > 0,`
+```json
+"minimum": 1
+```
 
 to
 
-`                        lambda season: season.seasonNumber >= 0 and season.viewedLeafCount > 0,`
+```json
+"minimum": 0
+```
+
+#### [plexanisync/plexmodule.py, line 181](https://github.com/RickDB/PlexAniSync/blob/master/plexanisync/plexmodule.py#L181):
+
+```py
+lambda season: season.seasonNumber > 0 and season.viewedLeafCount > 0,
+```
+
+to
+
+```py
+lambda season: season.seasonNumber >= 0 and season.viewedLeafCount > 0,
+```
