@@ -15,6 +15,21 @@ entries:
         anilist-id: 100185
   - title: "A Certain Scientific Railgun"
     seasons:
+      - season: 0
+        anilist-id: 8023
+        start: 1
+      - season: 0
+        anilist-id: 9063
+        start: 3
+      - season: 0
+        anilist-id: 19697
+        start: 7
+      - season: 0
+        anilist-id: 20686
+        start: 9
+      - season: 0
+        anilist-id: 122041
+        start: 12
       - season: 1
         anilist-id: 6213
       - season: 2
