@@ -1,4 +1,4 @@
-Just a Custom Mapping file for [PlexAniSync](https://github.com/RickDB/PlexAniSync).
+# Just a Custom Mapping file for [PlexAniSync](https://github.com/RickDB/PlexAniSync)
 
 To enable the sync function for specials, change the lines of the following files:
 
