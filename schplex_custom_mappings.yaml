@@ -157,3 +157,9 @@ entries:
         anilist-id: 153152
       - season: 2
         anilist-id: 166216
+  - title: "Urusei Yatsura"
+    seasons:
+      - season: 1
+        anilist-id: 143277
+      - season: 2
+        anilist-id: 155645
