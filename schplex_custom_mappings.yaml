@@ -103,6 +103,38 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11061
+  - title: "Monogatari Series"
+    seasons:
+      - season: 1
+        anilist-id: 5081
+      - season: 2
+        anilist-id: 11597
+      - season: 3
+        anilist-id: 15689
+      - season: 4
+        anilist-id: 17074
+      - season: 5
+        anilist-id: 20593
+      - season: 6
+        anilist-id: 20918
+      - season: 7
+        anilist-id: 21262
+      - season: 7
+        anilist-id: 21745
+        start: 14
+      - season: 8
+        anilist-id: 21520
+      - season: 9
+        anilist-id: 9260
+        start: 1
+      - season: 9
+        anilist-id: 21399
+        start: 2
+      - season: 9
+        anilist-id: 21400
+        start: 3
+      - season: 10
+        anilist-id: 100815
   - title: "One Piece"
     seasons:
       - season: 1
