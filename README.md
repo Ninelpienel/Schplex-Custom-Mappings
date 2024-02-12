@@ -2,7 +2,7 @@
 
 ## To use this file, do this:
 
-1. Raname [custom_mappings.yaml.example](https://github.com/RickDB/PlexAniSync/blob/master/custom_mappings.yaml.example) to custom_mappings.yaml
+1. Rename [custom_mappings.yaml.example](https://github.com/RickDB/PlexAniSync/blob/master/custom_mappings.yaml.example) to `custom_mappings.yaml`
    
 2. Open the file in a text editor, remove the whole code and paste this:
 
