@@ -135,6 +135,16 @@ entries:
         start: 3
       - season: 10
         anilist-id: 100815
+  - title: "Mushoku Tensei: Jobless Reincarnation"
+    seasons:
+      - season: 1
+        anilist-id: 108465
+      - season: 1
+        anilist-id: 127720
+        start: 12
+      - season: 2
+        anilist-id: 146065
+        start: 0
   - title: "One Piece"
     seasons:
       - season: 1
