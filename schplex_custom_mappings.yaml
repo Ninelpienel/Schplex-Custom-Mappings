@@ -211,6 +211,26 @@ entries:
         anilist-id: 21
       - season: 22
         anilist-id: 21
+  - title: "Sound! Euphonium"
+    seasons:
+      - season: 0
+        anilist-id: 21255
+      - season: 0
+        anilist-id: 98338
+        start: 10
+      - season: 1
+        anilist-id: 20912
+      - season: 1
+        anilist-id: 21376
+        start: 14
+      - season: 2
+        anilist-id: 21460
+      - season: 2
+        anilist-id: 101992
+        start: 14
+      - season: 2
+        anilist-id: 150429
+        start: 15
   - title: "The Dangers in My Heart"
     seasons:
       - season: 0
@@ -225,3 +245,16 @@ entries:
         anilist-id: 143277
       - season: 2
         anilist-id: 155645
+  - title: "Laid-Back Camp"
+    seasons:
+      - season: 0
+        anilist-id: 101206
+      - season: 0
+        anilist-id: 134413
+        start: 18
+      - season: 1
+        anilist-id: 98444
+      - season: 2
+        anilist-id: 104459
+      - season: 3
+        anilist-id: 155908
