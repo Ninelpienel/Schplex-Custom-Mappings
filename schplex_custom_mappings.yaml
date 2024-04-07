@@ -231,6 +231,8 @@ entries:
       - season: 2
         anilist-id: 150429
         start: 15
+      - season: 3
+        anilist-id: 109731
   - title: "The Dangers in My Heart"
     seasons:
       - season: 0
