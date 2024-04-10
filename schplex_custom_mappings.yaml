@@ -121,6 +121,23 @@ entries:
       - season: 5
         anilist-id: 146722
         start: 13
+  - title: "KonoSuba: God’s blessing on this wonderful world!"
+    seasons:
+      - season: 1
+        anilist-id: 21202
+      - season: 1
+        anilist-id: 21574
+        start: 11
+      - season: 2
+        anilist-id: 21699
+      - season: 2
+        anilist-id: 97996
+        start: 11
+      - season: 2
+        anilist-id: 102976
+        start: 12
+      - season: 3
+        anilist-id: 136804
   - title: "Monogatari Series"
     seasons:
       - season: 1
