@@ -182,6 +182,9 @@ entries:
         start: 24
       - season: 2
         anilist-id: 146065
+      - season: 2
+        anilist-id: 166873
+        start: 14
   - title: "One Piece"
     seasons:
       - season: 1
