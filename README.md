@@ -8,7 +8,7 @@
 
 ```
 remote-urls:
-  - https://github.com/Ninelpienel/Schplex-Custom-Mappings/blob/main/schplex_custom_mappings.yaml
+  - https://raw.githubusercontent.com/Ninelpienel/Schplex-Custom-Mappings/main/schplex_custom_mappings.yaml
 ```
 
 3. Save the file.
