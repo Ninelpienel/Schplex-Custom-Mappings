@@ -138,6 +138,19 @@ entries:
         start: 12
       - season: 3
         anilist-id: 136804
+  - title: "Laid-Back Camp"
+    seasons:
+      - season: 0
+        anilist-id: 101206
+      - season: 0
+        anilist-id: 134413
+        start: 18
+      - season: 1
+        anilist-id: 98444
+      - season: 2
+        anilist-id: 104459
+      - season: 3
+        anilist-id: 155908
   - title: "Monogatari Series"
     seasons:
       - season: 1
@@ -185,6 +198,31 @@ entries:
       - season: 2
         anilist-id: 166873
         start: 14
+  - title: "My Hero Academia"
+    seasons:
+      - season: 1
+        anilist-id: 21459
+      - season: 2
+        anilist-id: 21856
+      - season: 3
+        anilist-id: 100166
+      - season: 4
+        anilist-id: 104276
+      - season: 4
+        anilist-id: 122349
+        start: 26
+      - season: 5
+        anilist-id: 117193
+      - season: 5
+        anilist-id: 149073
+        start: 26
+      - season: 6
+        anilist-id: 139630
+      - season: 6
+        anilist-id: 169402
+        start: 26
+      - season: 7
+        anilist-id: 163139
   - title: "One Piece"
     seasons:
       - season: 1
@@ -267,16 +305,3 @@ entries:
         anilist-id: 143277
       - season: 2
         anilist-id: 155645
-  - title: "Laid-Back Camp"
-    seasons:
-      - season: 0
-        anilist-id: 101206
-      - season: 0
-        anilist-id: 134413
-        start: 18
-      - season: 1
-        anilist-id: 98444
-      - season: 2
-        anilist-id: 104459
-      - season: 3
-        anilist-id: 155908
