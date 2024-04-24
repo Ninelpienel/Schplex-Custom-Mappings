@@ -68,6 +68,10 @@ entries:
         anilist-id: 112443
       - season: 2
         anilist-id: 143866
+  - title: "Flüster mir ein Liebeslied"
+    seasons:
+      - season: 1
+        anilist-id: 160181
   - title: "Gintama"
     seasons:
       - season: 1
