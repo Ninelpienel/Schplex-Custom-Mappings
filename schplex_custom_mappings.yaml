@@ -107,6 +107,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11061
+  - title: "Ikimono-san"
+    seasons:
+      - season: 1
+        anilist-id: 169364
+      - season: 1
+        anilist-id: 177148
+        start: 13
   - title: "JoJo’s Bizarre Adventure"
     seasons:
       - season: 1
