@@ -68,6 +68,19 @@ entries:
         anilist-id: 112443
       - season: 2
         anilist-id: 143866
+  - title: "Encouragement of Climb"
+    seasons:
+      - season: 1
+        anilist-id: 14355
+      - season: 2
+        anilist-id: 20485
+      - season: 2
+        anilist-id: 98868
+        start: 25
+      - season: 3
+        anilist-id: 98866
+      - season: 4
+        anilist-id: 131182
   - title: "Flüster mir ein Liebeslied"
     seasons:
       - season: 1
