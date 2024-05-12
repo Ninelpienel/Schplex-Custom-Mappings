@@ -68,6 +68,18 @@ entries:
         anilist-id: 112443
       - season: 2
         anilist-id: 143866
+  - title: "Demon Slayer: Kimetsu no Yaiba"
+    seasons:
+      - season: 1
+        anilist-id: 101922
+      - season: 2
+        anilist-id: 129874
+      - season: 3
+        anilist-id: 142329
+      - season: 4
+        anilist-id: 145139
+      - season: 5
+        anilist-id: 166240
   - title: "Encouragement of Climb"
     seasons:
       - season: 1
