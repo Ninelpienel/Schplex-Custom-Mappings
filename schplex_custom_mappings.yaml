@@ -36,6 +36,37 @@ entries:
         anilist-id: 16049
       - season: 3
         anilist-id: 104462
+  - title: "Attack on Titan"
+    seasons:
+      - season: 1
+        anilist-id: 16498
+      - season: 1
+        anilist-id: 18397
+        start: 26
+      - season: 1
+        anilist-id: 20811
+        start: 29
+      - season: 2
+        anilist-id: 20958
+      - season: 2
+        anilist-id: 99634
+        start: 13
+      - season: 3
+        anilist-id: 99147
+      - season: 3
+        anilist-id: 104578
+        start: 13
+      - season: 4
+        anilist-id: 110277
+      - season: 4
+        anilist-id: 131681
+        start: 17
+      - season: 4
+        anilist-id: 146984
+        start: 29
+      - season: 4
+        anilist-id: 162314
+        start: 30
   - title: "Beyond the Boundary"
     seasons:
       - season: 1
