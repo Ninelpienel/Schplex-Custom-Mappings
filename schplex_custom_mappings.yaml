@@ -99,6 +99,24 @@ entries:
         anilist-id: 112443
       - season: 2
         anilist-id: 143866
+  - title: "Bungo Stray Dogs"
+    seasons:
+      - season: 1
+        anilist-id: 21311
+      - season: 2
+        anilist-id: 21679
+      - season: 2
+        anilist-id: 21791
+        start: 13
+      - season: 2
+        anilist-id: 98384
+        start: 14
+      - season: 3
+        anilist-id: 103223
+      - season: 4
+        anilist-id: 141249
+      - season: 5
+        anilist-id: 163263
   - title: "DEAD DEAD DEMONS DEDEDEDE DESTRUCTION"
     seasons:
       - season: 1
