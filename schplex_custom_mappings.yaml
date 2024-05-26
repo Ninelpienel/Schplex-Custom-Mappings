@@ -359,6 +359,13 @@ entries:
         anilist-id: 21
       - season: 22
         anilist-id: 21
+  - title: "Rascal Does Not Dream of Bunny Girl Senpai"
+    seasons:
+      - season: 1
+        anilist-id: 101291
+      - season: 1
+        anilist-id: 104157
+        start: 14
   - title: "Sound! Euphonium"
     seasons:
       - season: 0
