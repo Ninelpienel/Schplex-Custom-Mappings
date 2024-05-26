@@ -99,6 +99,11 @@ entries:
         anilist-id: 112443
       - season: 2
         anilist-id: 143866
+  - title: "DEAD DEAD DEMONS DEDEDEDE DESTRUCTION"
+    seasons:
+      - season: 1
+        anilist-id: 177697
+        start: 0
   - title: "Demon Slayer: Kimetsu no Yaiba"
     seasons:
       - season: 1
