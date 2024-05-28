@@ -366,6 +366,18 @@ entries:
       - season: 1
         anilist-id: 104157
         start: 14
+  - title: "Re:ZERO - Starting Life in Another World"
+    seasons:
+      - season: 1
+        anilist-id: 21355
+      - season: 1
+        anilist-id: 100049
+        start: 26
+      - season: 2
+        anilist-id: 108632
+      - season: 2
+        anilist-id: 119661
+        start: 14
   - title: "Sound! Euphonium"
     seasons:
       - season: 0
