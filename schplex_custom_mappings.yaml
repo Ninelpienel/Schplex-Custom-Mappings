@@ -211,6 +211,12 @@ entries:
       - season: 5
         anilist-id: 146722
         start: 13
+  - title: "Jujutsu Kaisen"
+    seasons:
+      - season: 1
+        anilist-id: 113415
+      - season: 2
+        anilist-id: 145064
   - title: "KonoSuba: God’s blessing on this wonderful world!"
     seasons:
       - season: 1
