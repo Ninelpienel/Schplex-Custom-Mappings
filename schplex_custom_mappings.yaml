@@ -289,6 +289,13 @@ entries:
         anilist-id: 104459
       - season: 3
         anilist-id: 155908
+  - title: "Mobile Suit Gundam Wing"
+    seasons:
+      - season: 1
+        anilist-id: 90
+      - season: 1
+        anilist-id: 2273
+        start: 50
   - title: "Monogatari Series"
     seasons:
       - season: 1
