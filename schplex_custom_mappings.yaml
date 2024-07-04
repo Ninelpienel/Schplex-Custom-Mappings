@@ -414,6 +414,12 @@ entries:
         anilist-id: 21
       - season: 22
         anilist-id: 21
+  - title: "Oshi no Ko: Mein Star"
+    seasons:
+      - season: 1
+        anilist-id: 150672
+      - season: 2
+        anilist-id: 166531
   - title: "Rascal Does Not Dream of Bunny Girl Senpai"
     seasons:
       - season: 1
