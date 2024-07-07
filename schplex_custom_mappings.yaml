@@ -477,6 +477,12 @@ entries:
         anilist-id: 153152
       - season: 2
         anilist-id: 166216
+  - title: "Tower of God"
+    seasons:
+      - season: 1
+        anilist-id: 115230
+      - season: 2
+        anilist-id: 153406
   - title: "Urusei Yatsura"
     seasons:
       - season: 1
