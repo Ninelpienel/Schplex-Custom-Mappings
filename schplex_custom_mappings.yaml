@@ -328,6 +328,8 @@ entries:
         start: 3
       - season: 10
         anilist-id: 100815
+      - season: 11
+        anilist-id: 173533
   - title: "Mushoku Tensei: Jobless Reincarnation"
     seasons:
       - season: 1
