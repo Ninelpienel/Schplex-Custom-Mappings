@@ -368,6 +368,12 @@ entries:
         start: 26
       - season: 7
         anilist-id: 163139
+  - title: "Nier:Automata Ver1.1a"
+    seasons:
+      - season: 1
+        anilist-id: 145665
+      - season: 2
+        anilist-id: 167420
   - title: "One Piece"
     seasons:
       - season: 1
