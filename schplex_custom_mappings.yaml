@@ -428,6 +428,32 @@ entries:
         anilist-id: 150672
       - season: 2
         anilist-id: 166531
+  - title: "Psycho-Pass"
+    seasons:
+      - season: 1
+        anilist-id: 13601
+      - season: 2
+        anilist-id: 20513
+      - season: 2
+        anilist-id: 20514
+        start: 12
+      - season: 2
+        anilist-id: 102649
+        start: 13
+      - season: 2
+        anilist-id: 104382
+        start: 14
+      - season: 2
+        anilist-id: 104990
+        start: 15
+      - season: 3
+        anilist-id: 108307
+      - season: 3
+        anilist-id: 113917
+        start: 9
+      - season: 3
+        anilist-id: 153687
+        start: 10
   - title: "Rascal Does Not Dream of Bunny Girl Senpai"
     seasons:
       - season: 1
