@@ -473,6 +473,13 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
+  - title: "Sengoku Youko"
+    seasons:
+      - season: 1
+        anilist-id: 168194
+      - season: 1
+        anilist-id: 176660
+        start: 14
   - title: "Sound! Euphonium"
     seasons:
       - season: 0
