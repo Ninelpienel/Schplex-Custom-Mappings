@@ -289,6 +289,12 @@ entries:
         anilist-id: 104459
       - season: 3
         anilist-id: 155908
+  - title: "Mobile Suit Gundam: Iron Blooded Orphans"
+    seasons:
+      - season: 1
+        anilist-id: 21268
+      - season: 2
+        anilist-id: 21749
   - title: "Mobile Suit Gundam Wing"
     seasons:
       - season: 1
