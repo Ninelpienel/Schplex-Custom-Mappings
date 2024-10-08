@@ -524,6 +524,12 @@ entries:
         start: 15
       - season: 3
         anilist-id: 109731
+  - title: "Sword Art Online Alternative: Gun Gale Online"
+    seasons:
+      - season: 1
+        anilist-id: 100183
+      - season: 2
+        anilist-id: 167141
   - title: "The Dangers in My Heart"
     seasons:
       - season: 0
