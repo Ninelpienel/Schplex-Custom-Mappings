@@ -476,6 +476,10 @@ entries:
       - season: 3
         anilist-id: 153687
         start: 10
+  - title: "Ranma1/2"
+    seasons:
+      - season: 1
+        anilist-id: 178533
   - title: "Rascal Does Not Dream of Bunny Girl Senpai"
     seasons:
       - season: 1
