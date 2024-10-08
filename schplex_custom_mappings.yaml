@@ -133,6 +133,8 @@ entries:
         anilist-id: 21861
       - season: 3
         anilist-id: 158931
+      - season: 4
+        anilist-id: 176311
   - title: "Bottom-Tier Character Tomozaki"
     seasons:
       - season: 0
@@ -289,6 +291,20 @@ entries:
         anilist-id: 104459
       - season: 3
         anilist-id: 155908
+  - title: "Love Live! Superstar!!"
+    seasons:
+      - season: 1
+        anilist-id: 114979
+      - season: 2
+        anilist-id: 140642
+      - season: 3
+        anilist-id: 155502
+  - title: "MF GHOST"
+    seasons:
+      - season: 1
+        anilist-id: 143327
+      - season: 2
+        anilist-id: 171642
   - title: "Mobile Suit Gundam: Iron Blooded Orphans"
     seasons:
       - season: 1
