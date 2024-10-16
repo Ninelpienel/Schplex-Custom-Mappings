@@ -504,10 +504,16 @@ entries:
   - title: "Sengoku Youko"
     seasons:
       - season: 1
-        anilist-id: 168194
+        anilist-id: 151970
       - season: 1
         anilist-id: 176660
         start: 14
+  - title: "Shangri-La Frontier"
+    seasons:
+      - season: 1
+        anilist-id: 168194
+      - season: 2
+        anilist-id: 176508
   - title: "Sound! Euphonium"
     seasons:
       - season: 0
