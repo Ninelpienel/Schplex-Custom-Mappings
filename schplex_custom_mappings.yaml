@@ -514,6 +514,12 @@ entries:
         anilist-id: 168194
       - season: 2
         anilist-id: 176508
+  - title: "Solo Leveling"
+    seasons:
+      - season: 1
+        anilist-id: 151807
+      - season: 2
+        anilist-id: 176496
   - title: "Sound! Euphonium"
     seasons:
       - season: 0
@@ -542,6 +548,12 @@ entries:
         anilist-id: 100183
       - season: 2
         anilist-id: 167141
+  - title: "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You"
+    seasons:
+      - season: 1
+        anilist-id: 162694
+      - season: 2
+        anilist-id: 172258
   - title: "The Dangers in My Heart"
     seasons:
       - season: 0
