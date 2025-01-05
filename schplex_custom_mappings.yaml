@@ -574,3 +574,7 @@ entries:
         anilist-id: 143277
       - season: 2
         anilist-id: 155645
+  - title: "ZENSHU"
+    seasons:
+      - season: 1
+        anilist-id: 176273
