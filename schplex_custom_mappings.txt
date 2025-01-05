@@ -1,0 +1,576 @@
+entries:
+  - title: "86: Eighty Six"
+    seasons:
+      - season: 1
+        anilist-id: 116589
+      - season: 2
+        anilist-id: 131586
+  - title: "A Certain Magical Index"
+    seasons:
+      - season: 1
+        anilist-id: 4654
+      - season: 2
+        anilist-id: 8937
+      - season: 3
+        anilist-id: 100185
+  - title: "A Certain Scientific Railgun"
+    seasons:
+      - season: 0
+        anilist-id: 8023
+        start: 1
+      - season: 0
+        anilist-id: 9063
+        start: 3
+      - season: 0
+        anilist-id: 19697
+        start: 7
+      - season: 0
+        anilist-id: 20686
+        start: 9
+      - season: 0
+        anilist-id: 122041
+        start: 12
+      - season: 1
+        anilist-id: 6213
+      - season: 2
+        anilist-id: 16049
+      - season: 3
+        anilist-id: 104462
+  - title: "Attack on Titan"
+    seasons:
+      - season: 1
+        anilist-id: 16498
+      - season: 1
+        anilist-id: 18397
+        start: 26
+      - season: 1
+        anilist-id: 20811
+        start: 29
+      - season: 2
+        anilist-id: 20958
+      - season: 3
+        anilist-id: 99147
+      - season: 3
+        anilist-id: 104578
+        start: 13
+      - season: 3
+        anilist-id: 99634
+        start: 23
+      - season: 4
+        anilist-id: 110277
+      - season: 4
+        anilist-id: 131681
+        start: 17
+      - season: 4
+        anilist-id: 146984
+        start: 29
+      - season: 4
+        anilist-id: 162314
+        start: 30
+  - title: "Beyond the Boundary"
+    seasons:
+      - season: 1
+        anilist-id: 18153
+      - season: 1
+        anilist-id: 20779
+        start: 13
+      - season: 1
+        anilist-id: 20768
+        start: 14
+      - season: 1
+        anilist-id: 20963
+        start: 15
+  - title: "Bleach"
+    seasons:
+      - season: 1
+        anilist-id: 269
+      - season: 2
+        anilist-id: 269
+      - season: 3
+        anilist-id: 269
+      - season: 4
+        anilist-id: 269
+      - season: 5
+        anilist-id: 269
+      - season: 6
+        anilist-id: 269
+      - season: 7
+        anilist-id: 269
+      - season: 8
+        anilist-id: 269
+      - season: 9
+        anilist-id: 269
+      - season: 10
+        anilist-id: 269
+      - season: 11
+        anilist-id: 269
+      - season: 12
+        anilist-id: 269
+      - season: 13
+        anilist-id: 269
+      - season: 14
+        anilist-id: 269
+      - season: 15
+        anilist-id: 269
+      - season: 16
+        anilist-id: 269
+      - season: 17
+        anilist-id: 116674
+      - season: 17
+        anilist-id: 159322
+        start: 14
+      - season: 17
+        anilist-id: 169755
+        start: 27
+  - title: "Blue Exorcist"
+    seasons:
+      - season: 1
+        anilist-id: 9919
+      - season: 1
+        anilist-id: 11266
+        start: 26
+      - season: 2
+        anilist-id: 21861
+      - season: 3
+        anilist-id: 158931
+      - season: 4
+        anilist-id: 176311
+  - title: "Bottom-Tier Character Tomozaki"
+    seasons:
+      - season: 0
+        anilist-id: 127363
+      - season: 1
+        anilist-id: 112443
+      - season: 2
+        anilist-id: 143866
+  - title: "Bungo Stray Dogs"
+    seasons:
+      - season: 1
+        anilist-id: 21311
+      - season: 2
+        anilist-id: 21679
+      - season: 2
+        anilist-id: 21791
+        start: 13
+      - season: 2
+        anilist-id: 98384
+        start: 14
+      - season: 3
+        anilist-id: 103223
+      - season: 4
+        anilist-id: 141249
+      - season: 5
+        anilist-id: 163263
+  - title: "DEAD DEAD DEMONS DEDEDEDE DESTRUCTION"
+    seasons:
+      - season: 1
+        anilist-id: 177697
+        start: 0
+  - title: "Demon Slayer: Kimetsu no Yaiba"
+    seasons:
+      - season: 1
+        anilist-id: 101922
+      - season: 2
+        anilist-id: 129874
+      - season: 3
+        anilist-id: 142329
+      - season: 4
+        anilist-id: 145139
+      - season: 5
+        anilist-id: 166240
+  - title: "Encouragement of Climb"
+    seasons:
+      - season: 1
+        anilist-id: 14355
+      - season: 2
+        anilist-id: 20485
+      - season: 2
+        anilist-id: 98868
+        start: 25
+      - season: 3
+        anilist-id: 98866
+      - season: 4
+        anilist-id: 131182
+  - title: "Flüster mir ein Liebeslied"
+    seasons:
+      - season: 1
+        anilist-id: 160181
+  - title: "Gintama"
+    seasons:
+      - season: 1
+        anilist-id: 918
+      - season: 2
+        anilist-id: 918
+      - season: 3
+        anilist-id: 918
+      - season: 4
+        anilist-id: 918
+      - season: 5
+        anilist-id: 9969
+      - season: 6
+        anilist-id: 15417
+      - season: 7
+        anilist-id: 20996
+      - season: 8
+        anilist-id: 97889
+      - season: 9
+        anilist-id: 99714
+      - season: 10
+        anilist-id: 100784
+      - season: 10
+        anilist-id: 101925
+        start: 13
+      - season: 10
+        anilist-id: 126819
+        start: 27
+      - season: 10
+        anilist-id: 114129
+        start: 29
+  - title: "Hunter x Hunter"
+    seasons:
+      - season: 1
+        anilist-id: 11061
+  - title: "Ikimono-san"
+    seasons:
+      - season: 1
+        anilist-id: 169364
+      - season: 1
+        anilist-id: 177148
+        start: 13
+  - title: "JoJo’s Bizarre Adventure"
+    seasons:
+      - season: 1
+        anilist-id: 14719
+      - season: 2
+        anilist-id: 20474
+      - season: 2
+        anilist-id: 20799
+        start: 25
+      - season: 3
+        anilist-id: 21450
+      - season: 4
+        anilist-id: 102883
+      - season: 5
+        anilist-id: 131942
+      - season: 5
+        anilist-id: 146722
+        start: 13
+  - title: "Jujutsu Kaisen"
+    seasons:
+      - season: 1
+        anilist-id: 113415
+      - season: 2
+        anilist-id: 145064
+  - title: "KonoSuba: God’s blessing on this wonderful world!"
+    seasons:
+      - season: 1
+        anilist-id: 21202
+      - season: 1
+        anilist-id: 21574
+        start: 11
+      - season: 2
+        anilist-id: 21699
+      - season: 2
+        anilist-id: 97996
+        start: 11
+      - season: 2
+        anilist-id: 102976
+        start: 12
+      - season: 3
+        anilist-id: 136804
+  - title: "Laid-Back Camp"
+    seasons:
+      - season: 0
+        anilist-id: 101206
+      - season: 0
+        anilist-id: 134413
+        start: 18
+      - season: 1
+        anilist-id: 98444
+      - season: 2
+        anilist-id: 104459
+      - season: 3
+        anilist-id: 155908
+  - title: "Love Live! Superstar!!"
+    seasons:
+      - season: 1
+        anilist-id: 114979
+      - season: 2
+        anilist-id: 140642
+      - season: 3
+        anilist-id: 155502
+  - title: "MF GHOST"
+    seasons:
+      - season: 1
+        anilist-id: 143327
+      - season: 2
+        anilist-id: 171642
+  - title: "Mobile Suit Gundam: Iron Blooded Orphans"
+    seasons:
+      - season: 1
+        anilist-id: 21268
+      - season: 2
+        anilist-id: 21749
+  - title: "Mobile Suit Gundam Wing"
+    seasons:
+      - season: 1
+        anilist-id: 90
+      - season: 1
+        anilist-id: 2273
+        start: 50
+  - title: "Monogatari Series"
+    seasons:
+      - season: 1
+        anilist-id: 5081
+      - season: 2
+        anilist-id: 11597
+      - season: 3
+        anilist-id: 15689
+      - season: 4
+        anilist-id: 17074
+      - season: 5
+        anilist-id: 20593
+      - season: 6
+        anilist-id: 20918
+      - season: 7
+        anilist-id: 21262
+      - season: 7
+        anilist-id: 21745
+        start: 14
+      - season: 8
+        anilist-id: 21520
+      - season: 9
+        anilist-id: 9260
+        start: 1
+      - season: 9
+        anilist-id: 21399
+        start: 2
+      - season: 9
+        anilist-id: 21400
+        start: 3
+      - season: 10
+        anilist-id: 100815
+      - season: 11
+        anilist-id: 173533
+  - title: "Mushoku Tensei: Jobless Reincarnation"
+    seasons:
+      - season: 1
+        anilist-id: 108465
+      - season: 1
+        anilist-id: 127720
+        start: 12
+      - season: 1
+        anilist-id: 141534
+        start: 24
+      - season: 2
+        anilist-id: 146065
+      - season: 2
+        anilist-id: 166873
+        start: 14
+  - title: "My Hero Academia"
+    seasons:
+      - season: 1
+        anilist-id: 21459
+      - season: 2
+        anilist-id: 21856
+      - season: 3
+        anilist-id: 100166
+      - season: 4
+        anilist-id: 104276
+      - season: 4
+        anilist-id: 122349
+        start: 26
+      - season: 5
+        anilist-id: 117193
+      - season: 5
+        anilist-id: 149073
+        start: 26
+      - season: 6
+        anilist-id: 139630
+      - season: 6
+        anilist-id: 169402
+        start: 26
+      - season: 7
+        anilist-id: 163139
+  - title: "Nier:Automata Ver1.1a"
+    seasons:
+      - season: 1
+        anilist-id: 145665
+      - season: 2
+        anilist-id: 167420
+  - title: "One Piece"
+    seasons:
+      - season: 1
+        anilist-id: 21
+      - season: 2
+        anilist-id: 21
+      - season: 3
+        anilist-id: 21
+      - season: 4
+        anilist-id: 21
+      - season: 5
+        anilist-id: 21
+      - season: 6
+        anilist-id: 21
+      - season: 7
+        anilist-id: 21
+      - season: 8
+        anilist-id: 21
+      - season: 9
+        anilist-id: 21
+      - season: 10
+        anilist-id: 21
+      - season: 11
+        anilist-id: 21
+      - season: 12
+        anilist-id: 21
+      - season: 13
+        anilist-id: 21
+      - season: 14
+        anilist-id: 21
+      - season: 15
+        anilist-id: 21
+      - season: 16
+        anilist-id: 21
+      - season: 17
+        anilist-id: 21
+      - season: 18
+        anilist-id: 21
+      - season: 19
+        anilist-id: 21
+      - season: 20
+        anilist-id: 21
+      - season: 21
+        anilist-id: 21
+      - season: 22
+        anilist-id: 21
+  - title: "Oshi no Ko: Mein Star"
+    seasons:
+      - season: 1
+        anilist-id: 150672
+      - season: 2
+        anilist-id: 166531
+  - title: "Psycho-Pass"
+    seasons:
+      - season: 1
+        anilist-id: 13601
+      - season: 2
+        anilist-id: 20513
+      - season: 2
+        anilist-id: 20514
+        start: 12
+      - season: 2
+        anilist-id: 102649
+        start: 13
+      - season: 2
+        anilist-id: 104382
+        start: 14
+      - season: 2
+        anilist-id: 104990
+        start: 15
+      - season: 3
+        anilist-id: 108307
+      - season: 3
+        anilist-id: 113917
+        start: 9
+      - season: 3
+        anilist-id: 153687
+        start: 10
+  - title: "Ranma1/2"
+    seasons:
+      - season: 1
+        anilist-id: 178533
+  - title: "Rascal Does Not Dream of Bunny Girl Senpai"
+    seasons:
+      - season: 1
+        anilist-id: 101291
+      - season: 1
+        anilist-id: 104157
+        start: 14
+  - title: "Re:ZERO - Starting Life in Another World"
+    seasons:
+      - season: 1
+        anilist-id: 21355
+      - season: 1
+        anilist-id: 100049
+        start: 26
+      - season: 2
+        anilist-id: 108632
+      - season: 2
+        anilist-id: 119661
+        start: 14
+      - season: 3
+        anilist-id: 163134
+  - title: "Sengoku Youko"
+    seasons:
+      - season: 1
+        anilist-id: 151970
+      - season: 1
+        anilist-id: 176660
+        start: 14
+  - title: "Shangri-La Frontier"
+    seasons:
+      - season: 1
+        anilist-id: 168194
+      - season: 2
+        anilist-id: 176508
+  - title: "Solo Leveling"
+    seasons:
+      - season: 1
+        anilist-id: 151807
+      - season: 2
+        anilist-id: 176496
+  - title: "Sound! Euphonium"
+    seasons:
+      - season: 0
+        anilist-id: 21255
+      - season: 0
+        anilist-id: 98338
+        start: 10
+      - season: 1
+        anilist-id: 20912
+      - season: 1
+        anilist-id: 21376
+        start: 14
+      - season: 2
+        anilist-id: 21460
+      - season: 2
+        anilist-id: 101992
+        start: 14
+      - season: 2
+        anilist-id: 150429
+        start: 15
+      - season: 3
+        anilist-id: 109731
+  - title: "Sword Art Online Alternative: Gun Gale Online"
+    seasons:
+      - season: 1
+        anilist-id: 100183
+      - season: 2
+        anilist-id: 167141
+  - title: "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You"
+    seasons:
+      - season: 1
+        anilist-id: 162694
+      - season: 2
+        anilist-id: 172258
+  - title: "The Dangers in My Heart"
+    seasons:
+      - season: 0
+        anilist-id: 170221
+      - season: 1
+        anilist-id: 153152
+      - season: 2
+        anilist-id: 166216
+  - title: "Tower of God"
+    seasons:
+      - season: 1
+        anilist-id: 115230
+      - season: 2
+        anilist-id: 153406
+  - title: "Urusei Yatsura"
+    seasons:
+      - season: 1
+        anilist-id: 143277
+      - season: 2
+        anilist-id: 155645
