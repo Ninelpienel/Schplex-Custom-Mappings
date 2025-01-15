@@ -161,6 +161,12 @@ entries:
         anilist-id: 141249
       - season: 5
         anilist-id: 163263
+  - title: "Die Tagebücher der Apothekerin"
+    seasons:
+      - season: 1
+        anilist-id: 161645
+      - season: 2
+        anilist-id: 176301
   - title: "DEAD DEAD DEMONS DEDEDEDE DESTRUCTION"
     seasons:
       - season: 1
