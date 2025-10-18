@@ -509,6 +509,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 178533
+      - season: 2
+        anilist-id: 185731
   - title: "Rascal Does Not Dream of Bunny Girl Senpai"
     seasons:
       - season: 1
