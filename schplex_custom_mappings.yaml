@@ -421,6 +421,8 @@ entries:
         start: 26
       - season: 7
         anilist-id: 163139
+      - season: 8
+        anilist-id: 182896
   - title: "Nier:Automata Ver1.1a"
     seasons:
       - season: 1
