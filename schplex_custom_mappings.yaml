@@ -484,6 +484,8 @@ entries:
         anilist-id: 150672
       - season: 2
         anilist-id: 166531
+      - season: 3
+        anilist-id: 182587
   - title: "Psycho-Pass"
     seasons:
       - season: 1
