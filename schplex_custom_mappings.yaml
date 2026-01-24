@@ -218,6 +218,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 160181
+  - title: "Frieren - Nach dem Ende der Reise"
+    seasons:
+      - season: 1
+        anilist-id: 154587
+      - season: 2
+        anilist-id: 182255
   - title: "Gintama"
     seasons:
       - season: 1
