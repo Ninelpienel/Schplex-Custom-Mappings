@@ -300,7 +300,7 @@ entries:
         anilist-id: 113415
       - season: 2
         anilist-id: 145064
-  - title: "KonoSuba: God’s blessing on this wonderful world!"
+  - title: "Konosuba: God's Blessing on This Wonderful World!"
     seasons:
       - season: 1
         anilist-id: 21202
@@ -330,7 +330,7 @@ entries:
         anilist-id: 104459
       - season: 3
         anilist-id: 155908
-  - title: "Love Live! Superstar!!"
+  - title: "LoveLive! Superstar!!"
     seasons:
       - season: 1
         anilist-id: 114979
@@ -353,6 +353,29 @@ entries:
       - season: 2
         anilist-id: 6288
         start: 26
+  - title: "Mobile Suit Gundam SEED"
+    seasons:
+      - season: 0
+        anilist-id: 864
+        start: 2
+      - season: 1
+        anilist-id: 93
+        start: 1
+      - season: 1
+        anilist-id: 2298
+        start: 51
+      - season: 2
+        anilist-id: 94
+        start: 1
+      - season: 2
+        anilist-id: 1215
+        start: 51
+      - season: 2
+        anilist-id: 183692
+        start: 54
+      - season: 2
+        anilist-id: 134761
+        start: 55
   - title: "Mobile Suit Gundam: Iron Blooded Orphans"
     seasons:
       - season: 1
