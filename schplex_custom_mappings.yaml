@@ -10,7 +10,11 @@ entries:
         anilist-id: 125368
         start: 13
       - season: 3
+        anilist-id: 165557
+        start: 0
+      - season: 3
         anilist-id: 125367
+        start: 1
       - season: 4
         anilist-id: 151384
       - season: 5
@@ -306,6 +310,8 @@ entries:
       - season: 5
         anilist-id: 146722
         start: 13
+      - season: 6
+        anilist-id: 190327
   - title: "Jujutsu Kaisen"
     seasons:
       - season: 1
