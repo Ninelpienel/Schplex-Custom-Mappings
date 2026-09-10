@@ -1,6 +1,18 @@
 entries:
   - title: "Kaguya-sama: Love is War"
     seasons:
+      - season: 1
+        anilist-id: 101921
+      - season: 2
+        anilist-id: 112641
+        start: 1
+      - season: 2
+        anilist-id: 125368
+        start: 13
+      - season: 3
+        anilist-id: 125367
+      - season: 4
+        anilist-id: 151384
       - season: 5
         anilist-id: 194884
   - title: "86: Eighty Six"
