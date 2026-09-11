@@ -514,12 +514,17 @@ entries:
         anilist-id: 163139
       - season: 8
         anilist-id: 182896
+        start: 1
+      - season: 8
+        anilist-id: 204356
+        start: 12
   - title: "Nier:Automata Ver1.1a"
     seasons:
       - season: 1
         anilist-id: 145665
-      - season: 2
+      - season: 1
         anilist-id: 167420
+        start: 13
   - title: "One Piece"
     seasons:
       - season: 1
@@ -613,6 +618,14 @@ entries:
       - season: 1
         anilist-id: 104157
         start: 14
+      - season: 1
+        anilist-id: 154967
+        start: 15
+      - season: 1
+        anilist-id: 161474
+        start: 16
+      - season: 2
+        anilist-id: 171046
   - title: "Re:ZERO - Starting Life in Another World"
     seasons:
       - season: 1
