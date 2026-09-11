@@ -3,8 +3,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116589
-      - season: 2
+      - season: 1
         anilist-id: 131586
+        start: 12
   - title: "A Certain Magical Index"
     seasons:
       - season: 1
@@ -122,6 +123,9 @@ entries:
       - season: 17
         anilist-id: 169755
         start: 27
+      - season: 17
+        anilist-id: 185874
+        start: 41
   - title: "Blue Exorcist"
     seasons:
       - season: 1
@@ -165,7 +169,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 177697
-        start: 0
+        start: 1
   - title: "Demon Slayer: Kimetsu no Yaiba"
     seasons:
       - season: 1
