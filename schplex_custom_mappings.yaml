@@ -1,24 +1,4 @@
 entries:
-  - title: "Kaguya-sama: Love is War"
-    seasons:
-      - season: 1
-        anilist-id: 101921
-      - season: 2
-        anilist-id: 112641
-        start: 1
-      - season: 2
-        anilist-id: 125368
-        start: 13
-      - season: 3
-        anilist-id: 165557
-        start: 0
-      - season: 3
-        anilist-id: 125367
-        start: 1
-      - season: 4
-        anilist-id: 151384
-      - season: 5
-        anilist-id: 194884
   - title: "86: Eighty Six"
     seasons:
       - season: 1
@@ -181,12 +161,6 @@ entries:
         anilist-id: 141249
       - season: 5
         anilist-id: 163263
-  - title: "Die Tagebücher der Apothekerin"
-    seasons:
-      - season: 1
-        anilist-id: 161645
-      - season: 2
-        anilist-id: 176301
   - title: "DEAD DEAD DEMONS DEDEDEDE DESTRUCTION"
     seasons:
       - season: 1
@@ -204,6 +178,12 @@ entries:
         anilist-id: 145139
       - season: 5
         anilist-id: 166240
+  - title: "Die Tagebücher der Apothekerin"
+    seasons:
+      - season: 1
+        anilist-id: 161645
+      - season: 2
+        anilist-id: 176301
   - title: "Dr. STONE"
     seasons:
       - season: 1
@@ -318,6 +298,26 @@ entries:
         anilist-id: 113415
       - season: 2
         anilist-id: 145064
+  - title: "Kaguya-sama: Love is War"
+    seasons:
+      - season: 1
+        anilist-id: 101921
+      - season: 2
+        anilist-id: 112641
+        start: 1
+      - season: 2
+        anilist-id: 125368
+        start: 13
+      - season: 3
+        anilist-id: 165557
+        start: 0
+      - season: 3
+        anilist-id: 125367
+        start: 1
+      - season: 4
+        anilist-id: 151384
+      - season: 5
+        anilist-id: 194884
   - title: "Konosuba: God's Blessing on This Wonderful World!"
     seasons:
       - season: 1
@@ -371,6 +371,12 @@ entries:
       - season: 2
         anilist-id: 6288
         start: 26
+  - title: "Mobile Suit Gundam: Iron Blooded Orphans"
+    seasons:
+      - season: 1
+        anilist-id: 21268
+      - season: 2
+        anilist-id: 21749
   - title: "Mobile Suit Gundam SEED"
     seasons:
       - season: 0
@@ -394,12 +400,6 @@ entries:
       - season: 2
         anilist-id: 134761
         start: 55
-  - title: "Mobile Suit Gundam: Iron Blooded Orphans"
-    seasons:
-      - season: 1
-        anilist-id: 21268
-      - season: 2
-        anilist-id: 21749
   - title: "Mobile Suit Gundam Wing"
     seasons:
       - season: 1
