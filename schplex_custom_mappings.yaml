@@ -139,6 +139,8 @@ entries:
         anilist-id: 158931
       - season: 4
         anilist-id: 176311
+      - season: 5
+        anilist-id: 185880
   - title: "Bottom-Tier Character Tomozaki"
     seasons:
       - season: 0
@@ -304,6 +306,8 @@ entries:
         anilist-id: 113415
       - season: 2
         anilist-id: 145064
+      - season: 3
+        anilist-id: 172463
   - title: "Kaguya-sama: Love is War"
     seasons:
       - season: 1
@@ -374,6 +378,8 @@ entries:
         anilist-id: 143327
       - season: 2
         anilist-id: 171642
+      - season: 3
+        anilist-id: 185753
   - title: "Mobile Suit Gundam 00"
     seasons:
       - season: 1
@@ -642,6 +648,8 @@ entries:
         start: 14
       - season: 3
         anilist-id: 163134
+      - season: 4
+        anilist-id: 189046
   - title: "Sengoku Youko"
     seasons:
       - season: 1
@@ -695,6 +703,8 @@ entries:
         anilist-id: 162694
       - season: 2
         anilist-id: 172258
+      - season: 3
+        anilist-id: 200637
   - title: "The Dangers in My Heart"
     seasons:
       - season: 0
