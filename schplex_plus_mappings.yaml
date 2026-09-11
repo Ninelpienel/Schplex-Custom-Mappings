@@ -1,0 +1,16 @@
+# PlexAniSyncPlus-Erweiterungen zu den Custom Mappings.
+# Normales PlexAniSync liest diese Datei nicht, die Mapping-Datei bleibt dadurch kompatibel.
+#
+# triggers: Folgen, die es auf Plex nicht gibt (z. B. Recaps). Erreicht der aus Plex berechnete
+# Fortschritt 'episode', zählt AniList bis 'until'; spätere Folgen verschieben sich entsprechend.
+anilist:
+  - anilist-id: 17074
+    title: "Monogatari Series Second Season"
+    triggers:
+      - episode: 23
+        until: 26
+  - anilist-id: 113917
+    title: "PSYCHO-PASS 3: First Inspector"
+    triggers:
+      - episode: 1
+        until: 3
