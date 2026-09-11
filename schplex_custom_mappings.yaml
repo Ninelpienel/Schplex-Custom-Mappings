@@ -438,12 +438,40 @@ entries:
         anilist-id: 15689
       - season: 5
         anilist-id: 17074
-        start: 1
       - season: 6
         anilist-id: 17074
-        start: 6
       - season: 7
         anilist-id: 20593
+      - season: 8
+        anilist-id: 17074
+      - season: 9
+        anilist-id: 17074
+      - season: 10
+        anilist-id: 17074
+      - season: 11
+        anilist-id: 20918
+      - season: 12
+        anilist-id: 21520
+      - season: 13
+        anilist-id: 21262
+        start: 1
+      - season: 13
+        anilist-id: 21745
+        start: 13
+      - season: 14
+        anilist-id: 100815
+      - season: 15
+        anilist-id: 173533
+      - season: 16
+        anilist-id: 180332
+        start: 1
+      - season: 16
+        anilist-id: 173533
+        start: 2
+      - season: 17
+        anilist-id: 173533
+      - season: 18
+        anilist-id: 173533
   - title: "Mushoku Tensei: Jobless Reincarnation"
     seasons:
       - season: 1
