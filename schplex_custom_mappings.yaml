@@ -37,6 +37,14 @@ entries:
         anilist-id: 16049
       - season: 3
         anilist-id: 104462
+  - title: "Arknights"
+    seasons:
+      - season: 1
+        anilist-id: 140660
+      - season: 2
+        anilist-id: 158895
+      - season: 3
+        anilist-id: 177175
   - title: "Attack on Titan"
     seasons:
       - season: 1
@@ -141,6 +149,10 @@ entries:
         anilist-id: 176311
       - season: 5
         anilist-id: 185880
+  - title: "Bogus Skill Fruitmaster"
+    seasons:
+      - season: 1
+        anilist-id: 178100
   - title: "Bottom-Tier Character Tomozaki"
     seasons:
       - season: 0
@@ -167,6 +179,14 @@ entries:
         anilist-id: 141249
       - season: 5
         anilist-id: 163263
+  - title: "Darwin's Incident"
+    seasons:
+      - season: 1
+        anilist-id: 177679
+  - title: "Das Band der Unterwelt"
+    seasons:
+      - season: 1
+        anilist-id: 195600
   - title: "DEAD DEAD DEMONS DEDEDEDE DESTRUCTION"
     seasons:
       - season: 1
@@ -228,6 +248,14 @@ entries:
         anilist-id: 98866
       - season: 4
         anilist-id: 131182
+  - title: "Fate/strange Fake"
+    seasons:
+      - season: 1
+        anilist-id: 154966
+        start: 0
+      - season: 1
+        anilist-id: 166617
+        start: 1
   - title: "Flüster mir ein Liebeslied"
     seasons:
       - season: 1
@@ -364,6 +392,12 @@ entries:
         anilist-id: 104459
       - season: 3
         anilist-id: 155908
+  - title: "Little Shark’s Outings"
+    seasons:
+      - season: 1
+        anilist-id: 165426
+      - season: 2
+        anilist-id: 204269
   - title: "LoveLive! Superstar!!"
     seasons:
       - season: 1
@@ -372,6 +406,34 @@ entries:
         anilist-id: 140642
       - season: 3
         anilist-id: 155502
+  - title: "Meine ganz besondere Hochzeit"
+    seasons:
+      - season: 1
+        anilist-id: 147103
+        start: 1
+      - season: 1
+        anilist-id: 167486
+        start: 13
+      - season: 2
+        anilist-id: 169441
+  - title: "Meine Wiedergeburt als Schleim in einer anderen Welt"
+    seasons:
+      - season: 1
+        anilist-id: 101280
+        start: 1
+      - season: 1
+        anilist-id: 106509
+        start: 25
+      - season: 2
+        anilist-id: 108511
+        start: 1
+      - season: 2
+        anilist-id: 116742
+        start: 13
+      - season: 3
+        anilist-id: 156822
+      - season: 4
+        anilist-id: 182205
   - title: "MF GHOST"
     seasons:
       - season: 1
@@ -650,6 +712,12 @@ entries:
         anilist-id: 163134
       - season: 4
         anilist-id: 189046
+  - title: "Rurouni Kenshin"
+    seasons:
+      - season: 1
+        anilist-id: 142877
+      - season: 2
+        anilist-id: 171637
   - title: "Sengoku Youko"
     seasons:
       - season: 1
@@ -669,6 +737,10 @@ entries:
         anilist-id: 151807
       - season: 2
         anilist-id: 176496
+  - title: "Sorairo Utility"
+    seasons:
+      - season: 1
+        anilist-id: 174596
   - title: "Sound! Euphonium"
     seasons:
       - season: 0
@@ -729,6 +801,12 @@ entries:
         anilist-id: 143277
       - season: 2
         anilist-id: 155645
+  - title: "Vom Landei zum Schwertheiligen"
+    seasons:
+      - season: 1
+        anilist-id: 179955
+      - season: 2
+        anilist-id: 194829
   - title: "ZENSHU"
     seasons:
       - season: 1
