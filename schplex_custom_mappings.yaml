@@ -487,6 +487,8 @@ entries:
       - season: 2
         anilist-id: 166873
         start: 14
+      - season: 3
+        anilist-id: 178789
   - title: "My Hero Academia"
     seasons:
       - season: 1
