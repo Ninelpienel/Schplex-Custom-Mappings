@@ -37,6 +37,10 @@ entries:
         anilist-id: 16049
       - season: 3
         anilist-id: 104462
+  - title: "Agents of the Four Seasons"
+    seasons:
+      - season: 1
+        anilist-id: 190143
   - title: "Arknights"
     seasons:
       - season: 1
@@ -76,6 +80,10 @@ entries:
       - season: 4
         anilist-id: 162314
         start: 30
+  - title: "BanG Dream! Ave Mujica - The Die is Cast -"
+    seasons:
+      - season: 1
+        anilist-id: 169295
   - title: "Beyond the Boundary"
     seasons:
       - season: 1
@@ -89,6 +97,33 @@ entries:
       - season: 1
         anilist-id: 20963
         start: 15
+  - title: "Black Butler"
+    seasons:
+      - season: 1
+        anilist-id: 4898
+        start: 1
+      - season: 1
+        anilist-id: 6793
+        start: 25
+      - season: 2
+        anilist-id: 6707
+        start: 1
+      - season: 2
+        anilist-id: 9136
+        start: 13
+      - season: 3
+        anilist-id: 20606
+        start: 1
+      - season: 3
+        anilist-id: 20670
+        start: 11
+      - season: 3
+        anilist-id: 21425
+        start: 13
+      - season: 4
+        anilist-id: 166715
+      - season: 5
+        anilist-id: 179054
   - title: "Bleach"
     seasons:
       - season: 1
@@ -149,6 +184,10 @@ entries:
         anilist-id: 176311
       - season: 5
         anilist-id: 185880
+  - title: "Blutsaugen für Anfänger"
+    seasons:
+      - season: 1
+        anilist-id: 186524
   - title: "Bogus Skill Fruitmaster"
     seasons:
       - season: 1
@@ -235,6 +274,10 @@ entries:
       - season: 4
         anilist-id: 199221
         start: 25
+  - title: "Ein Stern, heller als die Sonne"
+    seasons:
+      - season: 1
+        anilist-id: 186621
   - title: "Encouragement of Climb"
     seasons:
       - season: 1
@@ -301,6 +344,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 11061
+  - title: "Ichijōma Mankitsu Gurashi!"
+    seasons:
+      - season: 1
+        anilist-id: 195734
   - title: "Ikimono-san"
     seasons:
       - season: 1
@@ -336,6 +383,35 @@ entries:
         anilist-id: 145064
       - season: 3
         anilist-id: 172463
+  - title: "K Project"
+    seasons:
+      - season: 1
+        anilist-id: 14467
+        start: 1
+      - season: 1
+        anilist-id: 16904
+        start: 14
+      - season: 2
+        anilist-id: 20913
+        start: 1
+      - season: 2
+        anilist-id: 21798
+        start: 14
+      - season: 2
+        anilist-id: 102346
+        start: 15
+      - season: 2
+        anilist-id: 102347
+        start: 16
+      - season: 2
+        anilist-id: 102348
+        start: 17
+      - season: 2
+        anilist-id: 102349
+        start: 18
+      - season: 2
+        anilist-id: 102350
+        start: 19
   - title: "Kaguya-sama: Love is War"
     seasons:
       - season: 1
@@ -356,6 +432,16 @@ entries:
         anilist-id: 151384
       - season: 5
         anilist-id: 194884
+  - title: "Kakegurui: Das Leben ist ein Spiel"
+    seasons:
+      - season: 1
+        anilist-id: 98314
+      - season: 2
+        anilist-id: 100876
+  - title: "Kinos Reise: Die wunderschöne Welt - Die animierte Serie"
+    seasons:
+      - season: 1
+        anilist-id: 98448
   - title: "Konosuba: God's Blessing on This Wonderful World!"
     seasons:
       - season: 1
@@ -588,6 +674,42 @@ entries:
       - season: 8
         anilist-id: 204356
         start: 12
+  - title: "Natsume’s Book of Friends"
+    seasons:
+      - season: 1
+        anilist-id: 4081
+      - season: 2
+        anilist-id: 5300
+      - season: 3
+        anilist-id: 10379
+      - season: 4
+        anilist-id: 11665
+      - season: 4
+        anilist-id: 18849
+        start: 14
+      - season: 4
+        anilist-id: 20478
+        start: 15
+      - season: 5
+        anilist-id: 21710
+        start: 1
+      - season: 5
+        anilist-id: 99363
+        start: 12
+      - season: 6
+        anilist-id: 97983
+        start: 1
+      - season: 6
+        anilist-id: 100283
+        start: 12
+      - season: 6
+        anilist-id: 100268
+        start: 14
+      - season: 6
+        anilist-id: 124132
+        start: 15
+      - season: 7
+        anilist-id: 166611
   - title: "Nier:Automata Ver1.1a"
     seasons:
       - season: 1
@@ -649,6 +771,37 @@ entries:
         anilist-id: 166531
       - season: 3
         anilist-id: 182587
+  - title: "Princess Principal"
+    seasons:
+      - season: 0
+        anilist-id: 135255
+        start: 10
+      - season: 0
+        anilist-id: 143202
+        start: 11
+      - season: 0
+        anilist-id: 166977
+        start: 13
+      - season: 1
+        anilist-id: 98505
+      - season: 2
+        anilist-id: 101595
+        start: 1
+      - season: 2
+        anilist-id: 129759
+        start: 2
+      - season: 2
+        anilist-id: 137612
+        start: 3
+      - season: 2
+        anilist-id: 186716
+        start: 4
+      - season: 2
+        anilist-id: 204584
+        start: 5
+      - season: 2
+        anilist-id: 204585
+        start: 6
   - title: "Psycho-Pass"
     seasons:
       - season: 1
@@ -785,6 +938,16 @@ entries:
         anilist-id: 153152
       - season: 2
         anilist-id: 166216
+  - title: "The Fruit of Grisaia"
+    seasons:
+      - season: 1
+        anilist-id: 17729
+      - season: 2
+        anilist-id: 21005
+        start: 0
+      - season: 2
+        anilist-id: 21006
+        start: 1
   - title: "Tower of God"
     seasons:
       - season: 1
@@ -807,6 +970,27 @@ entries:
         anilist-id: 179955
       - season: 2
         anilist-id: 194829
+  - title: "Yuki Yuna is a Hero"
+    seasons:
+      - season: 0
+        anilist-id: 97856
+        start: 4
+      - season: 0
+        anilist-id: 100980
+        start: 5
+      - season: 0
+        anilist-id: 100981
+        start: 6
+      - season: 1
+        anilist-id: 20800
+      - season: 2
+        anilist-id: 100791
+        start: 1
+      - season: 2
+        anilist-id: 97769
+        start: 7
+      - season: 3
+        anilist-id: 122292
   - title: "ZENSHU"
     seasons:
       - season: 1
