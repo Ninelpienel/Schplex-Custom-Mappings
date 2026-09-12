@@ -3,7 +3,19 @@
 #
 # triggers: Folgen, die es auf Plex nicht gibt (z. B. Recaps). Erreicht der aus Plex berechnete
 # Fortschritt 'episode', zählt AniList bis 'until'; spätere Folgen verschieben sich entsprechend.
+#
+# parts: Mehrere Plex-Einträge, die AniList als einen führt (z. B. einzeln geführte OVAs). Jeder
+# fertig gesehene Teil zählt als eine Folge; die Reihenfolge spielt keine Rolle.
 anilist:
+  - anilist-id: 10937
+    title: "Mobile Suit Gundam: The Origin"
+    parts:
+      - "Mobile Suit Gundam: The Origin I - Blue-Eyed Casval"
+      - "Mobile Suit Gundam: The Origin II - Artesia's Sorrow"
+      - "Mobile Suit Gundam: The Origin III - Dawn of Rebellion"
+      - "Mobile Suit Gundam: The Origin IV - Eve of Destiny"
+      - "Mobile Suit Gundam: The Origin V - Clash at Loum"
+      - "Mobile Suit Gundam: The Origin VI - Rise of the Red Comet"
   - anilist-id: 17074
     title: "Monogatari Series Second Season"
     triggers:

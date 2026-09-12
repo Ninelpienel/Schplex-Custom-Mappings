@@ -218,6 +218,16 @@ entries:
         anilist-id: 141249
       - season: 5
         anilist-id: 163263
+  - title: "Cat's Eye – Ein Supertrio"
+    seasons:
+      - season: 1
+        anilist-id: 184718
+  - title: "Code Geass: Lelouch of the Rebellion"
+    seasons:
+      - season: 1
+        anilist-id: 1575
+      - season: 2
+        anilist-id: 2904
   - title: "Darwin's Incident"
     seasons:
       - season: 1
@@ -245,6 +255,14 @@ entries:
         anilist-id: 166240
       - season: 6
         anilist-id: 178788
+  - title: "Detektiv Conan: The Culprit Hanzawa"
+    seasons:
+      - season: 1
+        anilist-id: 140005
+  - title: "Detektiv Conan: Zero's Tea Time"
+    seasons:
+      - season: 1
+        anilist-id: 140002
   - title: "Die Tagebücher der Apothekerin"
     seasons:
       - season: 1
@@ -274,6 +292,18 @@ entries:
       - season: 4
         anilist-id: 199221
         start: 25
+  - title: "Dragonball Super"
+    seasons:
+      - season: 1
+        anilist-id: 21175
+      - season: 2
+        anilist-id: 21175
+      - season: 3
+        anilist-id: 21175
+      - season: 4
+        anilist-id: 21175
+      - season: 5
+        anilist-id: 21175
   - title: "Ein Stern, heller als die Sonne"
     seasons:
       - season: 1
@@ -492,6 +522,21 @@ entries:
         anilist-id: 140642
       - season: 3
         anilist-id: 155502
+  - title: "Lupin III."
+    seasons:
+      - season: 1
+        anilist-id: 1412
+      - season: 4
+        anilist-id: 20906
+        start: 1
+      - season: 4
+        anilist-id: 21822
+        start: 25
+      - season: 5
+        anilist-id: 100957
+      - season: 6
+        anilist-id: 134623
+        start: 0
   - title: "Meine ganz besondere Hochzeit"
     seasons:
       - season: 1
@@ -763,6 +808,10 @@ entries:
         anilist-id: 21
       - season: 22
         anilist-id: 21
+  - title: "One Piece: Baron Omatsuri und die geheimnisvolle Insel"
+    seasons:
+      - season: 1
+        anilist-id: 464
   - title: "Oshi no Ko: Mein Star"
     seasons:
       - season: 1
