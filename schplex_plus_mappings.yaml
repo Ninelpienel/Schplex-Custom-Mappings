@@ -6,6 +6,12 @@
 #
 # parts: Mehrere Plex-Einträge, die AniList als einen führt (z. B. einzeln geführte OVAs). Jeder
 # fertig gesehene Teil zählt als eine Folge; die Reihenfolge spielt keine Rolle.
+#
+# planned: Der AniList-Eintrag ist absichtlich (noch) nicht in Plex - der Editor meldet ihn nicht
+# mehr als Problem.
+#
+# plex/skip: Plex-Folgen ohne AniList-Entsprechung (z. B. ein Special mitten in der Staffel). Sie
+# werden beim Zählen übersprungen, die Folgen dahinter rücken auf.
 anilist:
   - anilist-id: 10937
     title: "Mobile Suit Gundam: The Origin"
@@ -26,3 +32,26 @@ anilist:
     triggers:
       - episode: 1
         until: 3
+  - anilist-id: 134761
+    title: "Mobile Suit Gundam SEED FREEDOM"
+    planned: true
+  - anilist-id: 141249
+    title: "Bungo Stray Dogs 4"
+    planned: true
+  - anilist-id: 163263
+    title: "Bungo Stray Dogs 5"
+    planned: true
+  - anilist-id: 183692
+    title: "Kidou Senshi Gundam SEED FREEDOM ZERO"
+    planned: true
+  - anilist-id: 204584
+    title: "Princess Principal: Crown Handler - Chapter 5"
+    planned: true
+  - anilist-id: 204585
+    title: "Princess Principal: Crown Handler - Chapter 6"
+    planned: true
+plex:
+  - title: "Yuki Yuna is a Hero"
+    skip:
+      - season: 0
+        episodes: [7]
