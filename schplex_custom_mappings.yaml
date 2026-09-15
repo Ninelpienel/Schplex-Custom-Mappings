@@ -385,6 +385,10 @@ entries:
       - season: 1
         anilist-id: 177148
         start: 13
+  - title: "Jack-of-All-Trades, Party of None"
+    seasons:
+      - season: 1
+        anilist-id: 187264
   - title: "JoJo’s Bizarre Adventure"
     seasons:
       - season: 1
