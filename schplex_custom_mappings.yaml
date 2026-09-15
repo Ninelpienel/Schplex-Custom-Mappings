@@ -607,19 +607,19 @@ entries:
         start: 1
       - season: 1
         anilist-id: 2298
-        start: 51
+        start: 49
       - season: 2
         anilist-id: 94
         start: 1
       - season: 2
         anilist-id: 1215
         start: 51
-      - season: 2
+      - season: 3
         anilist-id: 183692
-        start: 54
-      - season: 2
+        start: 1
+      - season: 3
         anilist-id: 134761
-        start: 55
+        start: 2
   - title: "Mobile Suit Gundam Wing"
     seasons:
       - season: 1
