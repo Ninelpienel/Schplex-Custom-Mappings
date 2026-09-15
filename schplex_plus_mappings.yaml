@@ -12,6 +12,13 @@
 #
 # plex/skip: Plex-Folgen ohne AniList-Entsprechung (z. B. ein Special mitten in der Staffel). Sie
 # werden beim Zählen übersprungen, die Folgen dahinter rücken auf.
+#
+# plex/merge: Plex-Folgen, die AniList als eine einzige Folge führt (z. B. die auf Blu-ray geteilte
+# Folge 1 von Owarimonogatari). Die Gruppe zählt als eine Folge, und zwar erst wenn alle Teile
+# gesehen sind; die Folgen dahinter rücken auf.
+#
+# 'start' in der Mapping-Datei bleibt dabei die echte Plex-Folgennummer, die Split-Grenzen rücken
+# beim Zählen automatisch mit.
 anilist:
   - anilist-id: 93
     title: "Mobile Suit Gundam Seed"
@@ -42,9 +49,6 @@ anilist:
     triggers:
       - episode: 1
         until: 3
-  - anilist-id: 134761
-    title: "Mobile Suit Gundam SEED FREEDOM"
-    planned: true
   - anilist-id: 141249
     title: "Bungo Stray Dogs 4"
     planned: true
@@ -61,6 +65,10 @@ anilist:
     title: "Princess Principal: Crown Handler - Chapter 6"
     planned: true
 plex:
+  - title: "Monogatari Series"
+    merge:
+      - season: 13
+        episodes: [1, 2]
   - title: "Yuki Yuna is a Hero"
     skip:
       - season: 0
