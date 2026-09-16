@@ -518,6 +518,14 @@ entries:
         anilist-id: 165426
       - season: 2
         anilist-id: 204269
+  - title: "Lord of Mysteries"
+    seasons:
+      - season: 1
+        anilist-id: 137667
+        start: 1
+      - season: 1
+        anilist-id: 199448
+        start: 14
   - title: "LoveLive! Superstar!!"
     seasons:
       - season: 1
