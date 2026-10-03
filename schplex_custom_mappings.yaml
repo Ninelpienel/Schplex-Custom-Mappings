@@ -560,6 +560,14 @@ entries:
       - season: 6
         anilist-id: 134623
         start: 0
+  - title: "Magia Record: Puella Magi Madoka Magica Side Story"
+    seasons:
+      - season: 1
+        anilist-id: 104051
+      - season: 2
+        anilist-id: 117002
+      - season: 3
+        anilist-id: 136080
   - title: "Meine ganz besondere Hochzeit"
     seasons:
       - season: 1
