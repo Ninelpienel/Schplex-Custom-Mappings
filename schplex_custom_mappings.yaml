@@ -376,6 +376,10 @@ entries:
       - season: 10
         anilist-id: 114129
         start: 29
+  - title: "Hori-san & Miyamura-kun"
+    seasons:
+      - season: 1
+        anilist-id: 14753
   - title: "Hunter x Hunter"
     seasons:
       - season: 1
