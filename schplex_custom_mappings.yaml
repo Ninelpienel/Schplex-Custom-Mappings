@@ -576,6 +576,10 @@ entries:
         anilist-id: 117002
       - season: 3
         anilist-id: 136080
+  - title: "Magic Knight Rayearth"
+    seasons:
+      - season: 1
+        anilist-id: 178868
   - title: "Meine ganz besondere Hochzeit"
     seasons:
       - season: 1
